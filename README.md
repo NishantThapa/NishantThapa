@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishant Thapa</h1>
 <h3 align="center">
-  Software Engineer | Javascript developer specialising in React | Currently
-  working with Full Stack “MERN”
+  Software Engineer | Javascript developer specialising in React | Full Stack “MERN”
 </h3>
 </br>
 </br>
